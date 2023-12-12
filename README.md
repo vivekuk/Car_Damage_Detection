@@ -119,7 +119,13 @@ Web Interface:
 
 Implements a user-friendly web interface for users to upload car images and receive damage reports.
 Ensures ease of use for both insurance professionals and customers.
+
+![image](https://github.com/vivekuk/Car_Damage_Detection/assets/60242797/284e159d-6083-4940-b1e8-021c00687d7f)
+
 Conclusion:
+
+![image](https://github.com/vivekuk/Car_Damage_Detection/assets/60242797/97b30705-2d52-44ef-8c29-e01b473e189f)
+
 The car damage detection system with image recognition presents a viable solution for automating the assessment of car damage. Its potential applications in the insurance industry, as demonstrated through the use case of Molin's Insurance, showcase the tangible benefits of adopting this technology. The project not only streamlines processes but also contributes to resource optimization and improved customer experiences.
 
 By submitting this project, we aim to contribute to advancements in automated image recognition and its practical applications in real-world scenarios. The technology presented here aligns with the evolving landscape of artificial intelligence and its potential to transform traditional industries.
