@@ -1,0 +1,6 @@
+train: ./full_data/train
+val: ./full_data/valid
+test: ./full_data/test
+
+nc: 5
+names: ['broken', 'crushed', 'dent','nodamage', 'scratch']
