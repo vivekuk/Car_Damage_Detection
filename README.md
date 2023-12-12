@@ -2,6 +2,7 @@ Car Damage Detection with Image Recognition
 
 Car Damage Detection :
 TEAM MEMBERS: -
+
 VIVEK CHINTA
 2.PRARTHANA BAHURIYA
 
@@ -34,6 +35,8 @@ https://www.istockphoto.com/search/2/image-film?family=creative&phrase=car%20dam
 Second Dataset:-
 
 https://drive.google.com/drive/folders/1gv0nRUWok3ajOKIhAy87RFPndczcxftI?usp=drive_link
+
+![0aa33c2d-125422955](https://github.com/vivekuk/Car_Damage_Detection/assets/60242797/a35aa295-661c-4fa8-8f3b-37f2e5e9a196)
 
  
 Each entry consists of an image file name followed by a description of the damage, such as "A Car with a Scratch," "A Car with No Damage," "A Car with a Dent," "A Broken Car," and "A Crushed Car." This dataset is ideal for training a machine learning model like YOLOv7 for recognizing and classifying different types of car damage
