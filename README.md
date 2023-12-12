@@ -1,4 +1,5 @@
-Project Submission: Car Damage Detection with Image Recognition
+Car Damage Detection with Image Recognition
+
 Car Damage Detection :
 TEAM MEMBERS: -
 VIVEK CHINTA
